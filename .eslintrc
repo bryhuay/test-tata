@@ -1,0 +1,17 @@
+{
+  "extends": ["standard"],
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "modules": false
+    }
+  },
+  "rules": {
+    "semi": 0,
+    "camelcase": 1,
+    "comma-dangle": 0,
+    "space-before-function-paren": 0
+  }
+}
